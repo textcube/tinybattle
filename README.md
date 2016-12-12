@@ -1,7 +1,5 @@
-Tiny Battle
-===========
-
 Tiny Battle (Turn based game example)
+=====================================
 
 For those who want to make an action running game for the first time will help.
 
